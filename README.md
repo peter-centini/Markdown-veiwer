@@ -1,8 +1,8 @@
 # markdown-viewer 
- visualisation en directe grace a Réact de la création de votre readme
+ Visualisation en directe grace a Réact de la création de votre readme
 
 ## Installation 
-téléchager le projet au format zip ou faire un git clone 
+Téléchager le projet au format zip ou faire un git clone 
 une fois téléchager ou dézipper 
 faire un 
 
